@@ -124,7 +124,7 @@ TEST_ENV=staging npm test
 ## Author
 
 **Shahzad Zaman Khan**, QA Automation Engineer
-7+ years in manual and automation testing with Selenium (Java), Playwright (TypeScript), API testing, JMeter and CI/CD.
+5+ years in manual and automation testing with Selenium (Java), Playwright (TypeScript), API testing, JMeter and CI/CD.
 
 [LinkedIn](https://www.linkedin.com/in/LINKEDIN_HANDLE)
 
